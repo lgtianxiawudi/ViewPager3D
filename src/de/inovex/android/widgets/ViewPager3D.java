@@ -19,6 +19,9 @@ import com.nineoldandroids.animation.Animator;
 import com.nineoldandroids.animation.Animator.AnimatorListener;
 import com.nineoldandroids.animation.ObjectAnimator;
 
+
+
+
 public class ViewPager3D extends ViewPager {
 
 	/**
